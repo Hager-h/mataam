@@ -1,12 +1,15 @@
 import React from 'react'
 import { BsFillTelephoneFill } from 'react-icons/bs';
 import { BsGeoAltFill } from 'react-icons/bs';
+import { FaFacebookF } from 'react-icons/fa';
+import { BiLogoInstagram } from 'react-icons/bi';
+import { BiLogoLinkedin } from 'react-icons/bi';
 
 import "./footer.css"
 export default function Footer() {
   return (
     <div className="footer">
-      <footer>
+      <footer>bi
     <div className="container">
         <div className="footer-top">
             <div className="row">
@@ -49,16 +52,16 @@ export default function Footer() {
                     <div className="footer-title">
                         <h4>Open hours</h4>
                         <ul className="footer-social">
-                            <li><a href="#" ><i className="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#" ><i className="fab fa-instagram"></i></a></li>
-                            <li><a href="#" ><i className="fab fa-linkedin-in"></i></a></li>
+                            <li><a href="#" ><i ><FaFacebookF /> </i></a></li>
+                            <li><a href="#" ><i><BiLogoInstagram/></i></a></li>
+                            <li><a href="#" ><i>< BiLogoLinkedin/></i></a></li>
 
                         </ul>
                     </div>
                     <table className="table">
                         <tbody>
-                            <tr>
-                                <td><i className="far fa-clock"></i>Monday</td>
+                            <tr>>
+                                  <td><i className="far fa-clock"></i>Monday</td>
                                 <td>9:00am - 5:00pm</td>
                             </tr>
                             <tr>
