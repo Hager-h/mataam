@@ -4,12 +4,13 @@ import { BsGeoAltFill } from 'react-icons/bs';
 import { FaFacebookF } from 'react-icons/fa';
 import { BiLogoInstagram } from 'react-icons/bi';
 import { BiLogoLinkedin } from 'react-icons/bi';
+import { LuClock9 } from 'react-icons/lu';
 
 import "./footer.css"
 export default function Footer() {
   return (
     <div className="footer">
-      <footer>bi
+      <footer>
     <div className="container">
         <div className="footer-top">
             <div className="row">
@@ -60,20 +61,20 @@ export default function Footer() {
                     </div>
                     <table className="table">
                         <tbody>
-                            <tr>>
-                                  <td><i className="far fa-clock"></i>Monday</td>
+                            <tr>
+                                  <td><i><LuClock9/></i>Monday</td>
                                 <td>9:00am - 5:00pm</td>
                             </tr>
                             <tr>
-                                <td><i className="far fa-clock"></i>Friday</td>
+                                <td><i><LuClock9/></i>Friday</td>
                                 <td>9:00am - 4:00pm</td>
                             </tr>
                             <tr>
-                                <td><i className="far fa-clock"></i>Sturday</td>
+                                <td><i><LuClock9/></i>Sturday</td>
                                 <td>9:00am - 1:30pm</td>
                             </tr>
                             <tr>
-                                <td><i className="far fa-clock"></i>Sunday</td>
+                                <td><i><LuClock9/></i>Sunday</td>
                                 <td>9:30am - 12:00pm</td>
                             </tr>
                         </tbody>

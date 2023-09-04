@@ -133,7 +133,8 @@ font-size: 16px;
 -moz-transition: all 0.5s;
 -o-transition: all 0.5s;
 transition: all 0.5s;
-font-weight: 800;
+font-weight: 800;    padding: 10px;
+
 }
 
 ul.footer-social li:last-child {
@@ -165,7 +166,7 @@ border: 1px solid rgb(37, 35, 35);
 
 
 
-footer .table td i {
+footer .table td svg {
 position: absolute;
 left: 0px;
 font-size: 21px;
