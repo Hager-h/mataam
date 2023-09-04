@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mataam/static/css/main.4813589d.css",
-    "main.js": "/mataam/static/js/main.afa55160.js",
+    "main.css": "/mataam/static/css/main.c18d717f.css",
+    "main.js": "/mataam/static/js/main.520fadd3.js",
     "static/media/2.png": "/mataam/static/media/2.b810024430d376b6bd6d.png",
     "static/media/3.jpg": "/mataam/static/media/3.12c392d279429f82935c.jpg",
     "static/media/1.png": "/mataam/static/media/1.91adf8dc0779a423e014.png",
@@ -14,11 +14,11 @@
     "static/media/11.jpg": "/mataam/static/media/11.6b4da8bc88aef16d6a2a.jpg",
     "static/media/pexels-photo-16402028.webp": "/mataam/static/media/pexels-photo-16402028.92a4029c0ad0f5471b20.webp",
     "index.html": "/mataam/index.html",
-    "main.4813589d.css.map": "/mataam/static/css/main.4813589d.css.map",
-    "main.afa55160.js.map": "/mataam/static/js/main.afa55160.js.map"
+    "main.c18d717f.css.map": "/mataam/static/css/main.c18d717f.css.map",
+    "main.520fadd3.js.map": "/mataam/static/js/main.520fadd3.js.map"
   },
   "entrypoints": [
-    "static/css/main.4813589d.css",
-    "static/js/main.afa55160.js"
+    "static/css/main.c18d717f.css",
+    "static/js/main.520fadd3.js"
   ]
 }
