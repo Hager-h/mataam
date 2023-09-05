@@ -222,6 +222,11 @@ footer .table td:last-child {
   }
 }
 
+@media(max-width:1024px){
+  ul.footer-social li {
+    margin-right: 7px;
+}
+}
 @media (max-width: 912px) {
   .menu h4 {
     color: #43121d;
