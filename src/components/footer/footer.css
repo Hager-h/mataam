@@ -207,7 +207,15 @@ footer .table td:last-child {
   text-align: center;
 }
 
+@media(max-width:1024px){
+  ul.footer-social li {
+    margin-right: 7px;
+}
+}
+
+ 
 @media (min-width: 912px) {
+
   .about-footer li i {
     position: absolute;
     left: 1px;
