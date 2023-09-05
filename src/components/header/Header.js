@@ -8,26 +8,26 @@ import Number from "../numbers/Number"
 export default function Header() {
   return (
     <div className="One">
-    <div className="header">
-      
-    <div className="container">
-        <div className=" text col-md--6 ">
-        <h1>
-        Good food choices are good investments.
-        
-        </h1>
-      <p className="text-header"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et purus a odio finibus bibendum amet leo.
+      <div className="header">
 
-        </p>
-          <div className="btns">
-          <button className="btn buttn ">Order Now<i><AiOutlineShoppingCart /></i> </button>
-        <button className="btn buttn butWithoutBorder">Learn More <i > <AiOutlineArrowRight /></i></button>
+        <div className="container">
+          <div className=" text col-md--6 ">
+            <h1>
+              Good food choices are good investments.
 
+            </h1>
+            <p className="text-header"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et purus a odio finibus bibendum amet leo.
+
+            </p>
+            <div className="btns">
+              <button className="btn buttn ">Order Now<i><AiOutlineShoppingCart /></i> </button>
+              <button className="btn buttn butWithoutBorder">Learn More <i > <AiOutlineArrowRight /></i></button>
+
+            </div>
           </div>
-      </div>
-        <div className="col-md-6">
+          <div className="col-md-6">
+          </div>
         </div>
-      </div>
 
       </div>
       <Number />
